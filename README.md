@@ -3,8 +3,9 @@
 ## Requirement 
 
 - pyenv
+- linux/macOS/wsl
 
-## How to
+## How to use
 
 1. clone this repository
 ```
@@ -38,3 +39,7 @@ export FLASK_DEBUG=1
 ```
 flask run
 ```
+
+## Exercise
+1. creating a web server Hello World
+2. creating a web server hello-world with template render
